@@ -4,6 +4,26 @@ to Subversion revision numbers (rXXXXX).
 
 For changes in version 1.1 beta 1 and earlier, see the History.txt file.
 
+Frhed 0.10904.2017.22 (2026-03-11)
+  BugFix: Appearing/disapering control. OLE settings (#27)
+
+Frhed 0.10904.2017.21 (2025-10-29)
+  Added Traditional Chinese translation (zh_TW.po)
+
+Frhed 0.10904.2017.20 (2025-10-26)
+  Update Italian translation
+
+Frhed 0.10904.2017.19 (2025-09-05)
+  Fixed clipped Language combo box height in the ViewSettings dialog on High-DPI displays.
+
+Frhed 0.10904.2017.18 (2025-08-16)
+  Added Italian translation
+  Added Lithuanian translation
+  Internal: Added set_theme_callback interface
+
+Frhed 0.10904.2017.17 (2025-07-22)
+  Update Tamil translation
+
 Frhed 0.10904.2017.16 (2025-06-11)
   Added Tamil translation
 
